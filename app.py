@@ -1,5 +1,5 @@
-# Scenario 1 automated deployment testfrom flask import Flask
-from flask import FlaskBroken #intentional failure
+# Scenario 1 automated deployment testfrom flask import Flas
+from flask import Flask
 
 app = Flask(__name__)
 
