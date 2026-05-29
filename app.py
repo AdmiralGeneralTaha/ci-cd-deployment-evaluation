@@ -1,4 +1,4 @@
-# Scenario 1 automated deployment testfrom flask import Flas
+# Scenario 1 automated deployment testfrom flask import Fla
 from flask import Flask
 
 app = Flask(__name__)
